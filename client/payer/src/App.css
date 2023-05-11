@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  flex-direction: column;
+}
+
+.Phone{
+  border: none;
+  margin: 5px;
+  padding:10px;
+  font-weight: bold;
+  font-size: large;
+  align-items: center;
+}
+.Amount{
+  border: none;
+  margin: 5px;
+  padding:10px;
+  font-weight: bold;
+  font-size: large;
+  align-items: center;
+}
+.btn{
+  font-weight: bold;
+  background-color: rgb(17, 24, 240);
+  color: aliceblue;
+  border-radius: 7px;
+  width: 150px;
+  font-size: large;
+  letter-spacing: 2px;
+
+  padding: 5px;
+
+}
+
+
